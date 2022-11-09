@@ -1,0 +1,32 @@
+@font-face {
+    font-family: Sans-Serif;
+    src: url(https://fonts.google.com/?category=Sans+Serif);
+}
+body{
+    margin: 0px;
+
+}
+header{
+    background-color: grey;
+}
+h1,h2{
+    text-align: center;
+    margin: 2px;
+}
+#citation{
+    border: 2px solid lightgrey;
+    border-radius: 2px;
+    width: 900px;
+    height: 30px;
+    margin: auto;
+    text-align:center;
+    padding: 30px;
+}
+#souvenir{
+    border: 2px solid lightgrey;
+    border-radius: 2px;
+    width: 900px;
+    margin-bottom: 5px;
+    margin: auto;
+    text-align:center;
+}
