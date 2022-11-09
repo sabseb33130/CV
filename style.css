@@ -15,26 +15,42 @@ h1,h2{
     margin: 2px;
 }
 #citation{
-    border: 2px solid lightgrey;
-    border-radius: 2px;
-    width: 900px;
+    border: 0px solid lightgrey;
+    border-radius: 20px;
+    width: 600px;
     height: 30px;
     margin: auto;
     text-align:center;
     padding: 30px;
-    font-size: 1.3em;
+    margin-top: 30px;
+    background-color: #638bee;
+    color: #cdd8f5;
 }
 #souvenir{
-    border: 2px solid lightgrey;
-    border-radius: 2px;
-    width: 900px;
+    border: 0px solid lightgrey;
+    border-radius: 20px;
+    width: 600px;
     margin-bottom: 5px;
     margin: auto;
     text-align:center;
+    color: #cdd8f5;
+    background-color: #f379de;
 }
 h3{
     text-align: center;
 }
 p{
     text-align: center;
+}
+#colonne{
+    display: inline-flex;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+ul{
+    list-style-type: none;
+}
+#image1{
+    float:left;
+    vertical-align: top;
 }
