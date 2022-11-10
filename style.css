@@ -4,37 +4,47 @@
 }
 body{
     margin: 0px;
-    background-color: #fefefe;
+    background-color: #faf7f779;
 
 }
 header{
     background-color: #b2b2b2;
 }
-h1,h2{
+h1{
     text-align: center;
     margin: 2px;
+    height: 50px;
+    width: 600px;
+    margin-top: 0px;
+    margin-left: auto;
+    margin-right: auto;
 }
-#citation{
+h2{
+    text-align: center;
+    height: 50px;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+#citation, #souvenir{
     border: 0px solid lightgrey;
     border-radius: 20px;
-    width: 600px;
-    height: 30px;
+    width: 800px;
+    
     margin: auto;
     text-align:center;
+    color: #cdd8f5;
+}
+#citation{
     padding: 30px;
     margin-top: 30px;
     background-color: #638bee;
-    color: #cdd8f5;
 }
 #souvenir{
-    border: 0px solid lightgrey;
-    border-radius: 20px;
-    width: 600px;
-    margin-bottom: 5px;
-    margin: auto;
-    text-align:center;
-    color: #cdd8f5;
-    background-color: #f379de;
+    padding-top: 10px;
+    background-color: #f82ad6;
+    height: 80px;
 }
 h3{
     text-align: center;
@@ -43,14 +53,25 @@ p{
     text-align: center;
 }
 #colonne{
-    display: inline-flex;
+    
     margin-top: 50px;
     margin-bottom: 50px;
 }
 ul{
     list-style-type: none;
+    text-align: center;
 }
 #image1{
     float:left;
     vertical-align: top;
+}
+#identite, ol{
+    list-style-type: none;
+    padding: 0px;
+    text-align: left;
+    margin-left: 10px;
+    width: 200px;
+    float: left;
+    margin-top: 0px;
+
 }
