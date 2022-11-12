@@ -4,12 +4,12 @@
 }
 body{
     margin: 0px;
-    background-color: #fefefe;
+    background-color: #cac9c9a9;
 
 }
 header{
-    background-color: #2a5bab;
-    color: #cdd8f5ce;
+    background-color: #2a39ab;
+    color: #8a95b0ce;
     display: flex;
     align-items: center;
     justify-content: space-evenly;
@@ -30,12 +30,12 @@ h2{
     width: 800px;
     margin: auto;
     text-align:center;
-    color: #cdd8f5ce;
+    color: #8a95b0ce;
 }
 #citation{
     padding: 30px;
     margin-top: 30px;
-    background-color: #638bee;
+    background-color: #08536e;
 }
 #souvenir{
     padding-top: 10px;
@@ -44,7 +44,7 @@ h2{
 }
 h3{
     text-align: center;
-    color: #cdd8f5ce;
+    color: #8a95b0ce;
 }
 p{
     text-align: center;
