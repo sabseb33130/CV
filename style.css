@@ -4,12 +4,12 @@
 }
 body{
     margin: 0px;
-    background-color: #b2b0b079;
+    background-color: #fefefe;
 
 }
 header{
     background-color: #2a5bab;
-    color: #cdd8f5;
+    color: #cdd8f5ce;
     display: flex;
     align-items: center;
     justify-content: space-evenly;
@@ -28,10 +28,9 @@ h2{
     border: 0px solid lightgrey;
     border-radius: 20px;
     width: 800px;
-    
     margin: auto;
     text-align:center;
-    color: #cdd8f5;
+    color: #cdd8f5ce;
 }
 #citation{
     padding: 30px;
@@ -45,6 +44,7 @@ h2{
 }
 h3{
     text-align: center;
+    color: #cdd8f5ce;
 }
 p{
     text-align: center;
